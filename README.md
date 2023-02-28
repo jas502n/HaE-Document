@@ -1,3 +1,18 @@
+
+## example ueditor
+
+![image](https://user-images.githubusercontent.com/16593068/221788859-e7330225-7acc-442c-a6ab-82abec046e77.png)
+
+```
+/js/ueditor.config.js
+/js/ueditor.all.js
+```
+
+RegExp: `(ueditor\.(config|all)\.js)`
+![image](https://user-images.githubusercontent.com/16593068/221789531-f1bba812-c04b-4028-890a-6f684eecc8dc.png)
+
+<iframe frameborder="0" width="404" height="214" src="https://jex.im/regulex/#!embed=true&flags=&re=(ueditor%5C.(config%7Call)%5C.js)"></iframe>
+
 <div align="center">
 <img src="images/logo.png" style="width: 20%" />
 <h4><a href="https://gh0st.cn/HaE/">赋能白帽，高效作战！</a></h4>
