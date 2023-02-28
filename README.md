@@ -19,6 +19,15 @@ RegExp: `(ueditor\.(config|all)\.js)`
 <h5>第一作者： <a href="https://github.com/gh0stkey">EvilChen</a>（中孚信息元亨实验室）, 第二作者： <a href="https://github.com/0chencc">0chencc</a>（米斯特安全团队）</h5>
 </div>
 
+bp 插件设置：
+
+![image](https://user-images.githubusercontent.com/16593068/221790123-9071a3dc-b861-4bc9-9559-89af51e2c297.png)
+
+bp返回结果：
+
+![image](https://user-images.githubusercontent.com/16593068/221789990-16750a2b-0401-4c25-8065-cae185614d2f.png)
+
+
 
 ## 项目介绍
 
